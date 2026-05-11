@@ -1,0 +1,26 @@
+[
+  {
+    "Name": "image1",
+    "LastActionTimestamp": "2026-05-04T21:06:32.961299+02:00",
+    "State": "Finished",
+    "TotalFilesToCopy": 1,
+    "TotalFilesSize": 242283,
+    "Progression": 100,
+    "RemainingFiles": 0,
+    "RemainingSize": 0,
+    "CurrentSourceFilePath": "",
+    "CurrentDestinationFilePath": ""
+  },
+  {
+    "Name": "image et txt",
+    "LastActionTimestamp": "2026-05-04T22:11:25.350551+02:00",
+    "State": "Finished",
+    "TotalFilesToCopy": 2,
+    "TotalFilesSize": 244614,
+    "Progression": 100,
+    "RemainingFiles": 0,
+    "RemainingSize": 0,
+    "CurrentSourceFilePath": "",
+    "CurrentDestinationFilePath": ""
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "Name": "image1",
+    "SourceDirectory": "C:\\Users\\mourad\\Downloads\\les truc a save\\Screenshot-2024-12-24-094637.png",
+    "TargetDirectory": "C:\\Users\\mourad\\Desktop",
+    "Type": 1
+  },
+  {
+    "Name": "image et txt",
+    "SourceDirectory": "C:\\Users\\mourad\\Downloads\\les truc a save",
+    "TargetDirectory": "C:\\Users\\mourad\\Desktop",
+    "Type": 1
+  }
+]

@@ -1,0 +1,14 @@
+C:\Users\mourad\source\repos\unitealfa\A3-groupe-05\publish-cli\CryptoSoft.exe
+C:\Users\mourad\source\repos\unitealfa\A3-groupe-05\publish-cli\EasySave.Cli.exe
+C:\Users\mourad\source\repos\unitealfa\A3-groupe-05\publish-cli\CryptoSoft.deps.json
+C:\Users\mourad\source\repos\unitealfa\A3-groupe-05\publish-cli\CryptoSoft.runtimeconfig.json
+C:\Users\mourad\source\repos\unitealfa\A3-groupe-05\publish-cli\Resources\en.json
+C:\Users\mourad\source\repos\unitealfa\A3-groupe-05\publish-cli\Resources\fr.json
+C:\Users\mourad\source\repos\unitealfa\A3-groupe-05\publish-cli\EasySave.Cli.dll
+C:\Users\mourad\source\repos\unitealfa\A3-groupe-05\publish-cli\EasySave.Cli.deps.json
+C:\Users\mourad\source\repos\unitealfa\A3-groupe-05\publish-cli\EasySave.Cli.runtimeconfig.json
+C:\Users\mourad\source\repos\unitealfa\A3-groupe-05\publish-cli\EasySave.Cli.pdb
+C:\Users\mourad\source\repos\unitealfa\A3-groupe-05\publish-cli\EasyLog.dll
+C:\Users\mourad\source\repos\unitealfa\A3-groupe-05\publish-cli\EasySave.Core.dll
+C:\Users\mourad\source\repos\unitealfa\A3-groupe-05\publish-cli\EasySave.Core.pdb
+C:\Users\mourad\source\repos\unitealfa\A3-groupe-05\publish-cli\EasyLog.pdb

@@ -1,0 +1,15 @@
+C:\Users\mourad\source\repos\unitealfa\A3-groupe-05\CryptoSoft\bin\Release\net8.0\CryptoSoft.exe
+C:\Users\mourad\source\repos\unitealfa\A3-groupe-05\CryptoSoft\bin\Release\net8.0\CryptoSoft.deps.json
+C:\Users\mourad\source\repos\unitealfa\A3-groupe-05\CryptoSoft\bin\Release\net8.0\CryptoSoft.runtimeconfig.json
+C:\Users\mourad\source\repos\unitealfa\A3-groupe-05\CryptoSoft\bin\Release\net8.0\CryptoSoft.dll
+C:\Users\mourad\source\repos\unitealfa\A3-groupe-05\CryptoSoft\bin\Release\net8.0\CryptoSoft.pdb
+C:\Users\mourad\source\repos\unitealfa\A3-groupe-05\CryptoSoft\obj\Release\net8.0\CryptoSoft.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mourad\source\repos\unitealfa\A3-groupe-05\CryptoSoft\obj\Release\net8.0\CryptoSoft.AssemblyInfoInputs.cache
+C:\Users\mourad\source\repos\unitealfa\A3-groupe-05\CryptoSoft\obj\Release\net8.0\CryptoSoft.AssemblyInfo.cs
+C:\Users\mourad\source\repos\unitealfa\A3-groupe-05\CryptoSoft\obj\Release\net8.0\CryptoSoft.csproj.CoreCompileInputs.cache
+C:\Users\mourad\source\repos\unitealfa\A3-groupe-05\CryptoSoft\obj\Release\net8.0\CryptoSoft.sourcelink.json
+C:\Users\mourad\source\repos\unitealfa\A3-groupe-05\CryptoSoft\obj\Release\net8.0\CryptoSoft.dll
+C:\Users\mourad\source\repos\unitealfa\A3-groupe-05\CryptoSoft\obj\Release\net8.0\refint\CryptoSoft.dll
+C:\Users\mourad\source\repos\unitealfa\A3-groupe-05\CryptoSoft\obj\Release\net8.0\CryptoSoft.pdb
+C:\Users\mourad\source\repos\unitealfa\A3-groupe-05\CryptoSoft\obj\Release\net8.0\CryptoSoft.genruntimeconfig.cache
+C:\Users\mourad\source\repos\unitealfa\A3-groupe-05\CryptoSoft\obj\Release\net8.0\ref\CryptoSoft.dll

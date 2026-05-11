@@ -1,0 +1,40 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="../EasySave.Core/EasySave.Core.csproj" SkipGetTargetFrameworkProperties="true" />
+    <ProjectReference Include="../CryptoSoft/CryptoSoft.csproj" ReferenceOutputAssembly="false" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <AssemblyName>EasySave.Cli</AssemblyName>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="Resources\*.json" CopyToOutputDirectory="PreserveNewest" />
+  </ItemGroup>
+
+  <Target Name="CopyCryptoSoftToOutput" AfterTargets="Build">
+    <MakeDir Directories="$(OutDir)CryptoSoft" />
+    <ItemGroup>
+      <CryptoSoftOutput Include="..\CryptoSoft\bin\$(Configuration)\net8.0\**\*" />
+    </ItemGroup>
+    <Copy SourceFiles="@(CryptoSoftOutput)"
+          DestinationFiles="@(CryptoSoftOutput->'$(OutDir)CryptoSoft\%(RecursiveDir)%(Filename)%(Extension)')"
+          SkipUnchangedFiles="true" />
+  </Target>
+
+  <Target Name="CopyCryptoSoftToPublish" AfterTargets="Publish">
+    <MakeDir Directories="$(PublishDir)CryptoSoft" />
+    <ItemGroup>
+      <CryptoSoftPublish Include="..\CryptoSoft\bin\$(Configuration)\net8.0\**\*" />
+    </ItemGroup>
+    <Copy SourceFiles="@(CryptoSoftPublish)"
+          DestinationFiles="@(CryptoSoftPublish->'$(PublishDir)CryptoSoft\%(RecursiveDir)%(Filename)%(Extension)')"
+          SkipUnchangedFiles="true" />
+  </Target>
+
+</Project>

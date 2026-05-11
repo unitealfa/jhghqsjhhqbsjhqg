@@ -1,0 +1,24 @@
+[
+  {
+    "Timestamp": "2026-05-04T12:47:12.431714+02:00",
+    "BackupName": "tmp",
+    "SourceFilePath": "C:\\Users\\mourad\\source\\repos\\unitealfa\\A3-groupe-05\\tmp-crypto-check\\src\\a.txt",
+    "DestinationFilePath": "C:\\Users\\mourad\\source\\repos\\unitealfa\\A3-groupe-05\\tmp-crypto-check\\dst\\a.txt",
+    "FileSize": 16,
+    "TransferTimeMs": 6,
+    "EncryptionTimeMs": 3,
+    "Status": "Success",
+    "ErrorMessage": null
+  },
+  {
+    "Timestamp": "2026-05-04T12:47:12.5400841+02:00",
+    "BackupName": "tmp",
+    "SourceFilePath": "C:\\Users\\mourad\\source\\repos\\unitealfa\\A3-groupe-05\\tmp-crypto-check\\src\\b.log",
+    "DestinationFilePath": "C:\\Users\\mourad\\source\\repos\\unitealfa\\A3-groupe-05\\tmp-crypto-check\\dst\\b.log",
+    "FileSize": 11,
+    "TransferTimeMs": 7,
+    "EncryptionTimeMs": 10,
+    "Status": "Success",
+    "ErrorMessage": null
+  }
+]

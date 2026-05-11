@@ -1,0 +1,11 @@
+{
+  "Language": "en",
+  "LogFormatName": "json",
+  "EncryptedExtensions": [
+    "*"
+  ],
+  "BusinessSoftwareProcesses": [],
+  "CryptoSoftPath": "C:\\Users\\mourad\\source\\repos\\unitealfa\\A3-groupe-05\\publish\\CryptoSoft",
+  "CryptoKey": "EasySave",
+  "LogFormat": 1
+}
